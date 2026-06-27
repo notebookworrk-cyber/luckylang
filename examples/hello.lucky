@@ -1,0 +1,16 @@
+print "Hello from Luckylang!"
+
+name = "Lucky"
+print "Welcome, " + name
+
+x = 10
+y = 20
+print "Sum: " + (x + y)
+
+if x > 5 {
+    print "x is big!"
+}
+
+loop 3 {
+    print "Counting..."
+}
