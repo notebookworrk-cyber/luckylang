@@ -1,3 +1,5 @@
+> **⚠️ ARCHIVED:** Merged into [zoya-easy-code](https://github.com/notebookworrk-cyber/zoya-easy-code). See that repository for the active project.
+
 # Lukylang
 
 Lukylang is a simple, educational programming language designed for learning and scripting.

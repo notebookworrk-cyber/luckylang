@@ -1,3 +1,5 @@
+> **⚠️ ARCHIVED:** Merged into [zoya-easy-code](https://github.com/notebookworrk-cyber/zoya-easy-code). See that repository for the active project.
+
 # Luckylang 2.0 SAFETY Scope Refinement
 
 ## Current State
